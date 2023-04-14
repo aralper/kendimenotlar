@@ -1,6 +1,6 @@
 # kendimenotlar
 node testnetlerinde kullandığım genel komutlar
-hangi dizinde olduğumuzu göstermek için: # pwd
+# pwd hangi dizinde olduğumuzu göstermek için:
 bulunduğumuz klasörden geri gitmek için: # cd ..
 bir klkasör ya da dizin oluşturmak için: # mkdir
 boş bir dizini silmek için: # rmdir
